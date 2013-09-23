@@ -1,4 +1,4 @@
-heat_template_version: 2013-09-21
+heat_template_version: 2013-05-23
 
 description: |
   A template implementation of a resource that provides a single MongoDB server instance
